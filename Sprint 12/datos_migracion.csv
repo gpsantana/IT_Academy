@@ -1,0 +1,101 @@
+Codi_Districte,NACIONALITAT_G,Nom_Districte,Nom_Barri,AEB,Seccio_Censal,Valor,Codi_Barri,_id,Any
+1,1,Ciutat Vella,el Raval,1,1001,46,1,1,2024
+1,2,Ciutat Vella,el Raval,1,1001,28,1,2,2024
+1,3,Ciutat Vella,el Raval,1,1001,155,1,3,2024
+1,1,Ciutat Vella,el Raval,1,1002,29,1,4,2024
+1,2,Ciutat Vella,el Raval,1,1002,45,1,5,2024
+1,3,Ciutat Vella,el Raval,1,1002,167,1,6,2024
+1,1,Ciutat Vella,el Raval,2,1003,65,1,7,2024
+1,2,Ciutat Vella,el Raval,2,1003,51,1,8,2024
+1,3,Ciutat Vella,el Raval,2,1003,431,1,9,2024
+1,1,Ciutat Vella,el Raval,2,1004,78,1,10,2024
+1,2,Ciutat Vella,el Raval,2,1004,77,1,11,2024
+1,3,Ciutat Vella,el Raval,2,1004,285,1,12,2024
+1,1,Ciutat Vella,el Raval,3,1005,59,1,13,2024
+1,2,Ciutat Vella,el Raval,3,1005,52,1,14,2024
+1,3,Ciutat Vella,el Raval,3,1005,251,1,15,2024
+1,1,Ciutat Vella,el Raval,3,1006,51,1,16,2024
+1,2,Ciutat Vella,el Raval,3,1006,48,1,17,2024
+1,3,Ciutat Vella,el Raval,3,1006,254,1,18,2024
+1,1,Ciutat Vella,el Raval,3,1007,26,1,19,2024
+1,2,Ciutat Vella,el Raval,3,1007,41,1,20,2024
+1,3,Ciutat Vella,el Raval,3,1007,261,1,21,2024
+1,1,Ciutat Vella,el Raval,4,1008,52,1,22,2024
+1,2,Ciutat Vella,el Raval,4,1008,41,1,23,2024
+1,3,Ciutat Vella,el Raval,4,1008,515,1,24,2024
+1,1,Ciutat Vella,el Raval,4,1009,58,1,25,2024
+1,2,Ciutat Vella,el Raval,4,1009,58,1,26,2024
+1,3,Ciutat Vella,el Raval,4,1009,331,1,27,2024
+1,1,Ciutat Vella,el Raval,4,1010,64,1,28,2024
+1,2,Ciutat Vella,el Raval,4,1010,45,1,29,2024
+1,3,Ciutat Vella,el Raval,4,1010,397,1,30,2024
+1,1,Ciutat Vella,el Raval,5,1011,94,1,31,2024
+1,2,Ciutat Vella,el Raval,5,1011,52,1,32,2024
+1,3,Ciutat Vella,el Raval,5,1011,433,1,33,2024
+1,1,Ciutat Vella,el Raval,5,1012,47,1,34,2024
+1,2,Ciutat Vella,el Raval,5,1012,36,1,35,2024
+1,3,Ciutat Vella,el Raval,5,1012,223,1,36,2024
+1,1,Ciutat Vella,el Raval,5,1013,36,1,37,2024
+1,2,Ciutat Vella,el Raval,5,1013,12,1,38,2024
+1,3,Ciutat Vella,el Raval,5,1013,103,1,39,2024
+1,1,Ciutat Vella,el Raval,6,1014,47,1,40,2024
+1,2,Ciutat Vella,el Raval,6,1014,34,1,41,2024
+1,3,Ciutat Vella,el Raval,6,1014,191,1,42,2024
+1,1,Ciutat Vella,el Raval,6,1015,47,1,43,2024
+1,2,Ciutat Vella,el Raval,6,1015,42,1,44,2024
+1,3,Ciutat Vella,el Raval,6,1015,246,1,45,2024
+1,1,Ciutat Vella,el Raval,6,1016,52,1,46,2024
+1,2,Ciutat Vella,el Raval,6,1016,37,1,47,2024
+1,3,Ciutat Vella,el Raval,6,1016,159,1,48,2024
+1,1,Ciutat Vella,el Raval,6,1017,49,1,49,2024
+1,2,Ciutat Vella,el Raval,6,1017,45,1,50,2024
+1,3,Ciutat Vella,el Raval,6,1017,367,1,51,2024
+1,4,Ciutat Vella,el Raval,6,1017,..,1,52,2024
+1,1,Ciutat Vella,el Raval,7,1018,40,1,53,2024
+1,2,Ciutat Vella,el Raval,7,1018,30,1,54,2024
+1,3,Ciutat Vella,el Raval,7,1018,159,1,55,2024
+1,4,Ciutat Vella,el Raval,7,1018,..,1,56,2024
+1,1,Ciutat Vella,el Raval,7,1019,77,1,57,2024
+1,2,Ciutat Vella,el Raval,7,1019,74,1,58,2024
+1,3,Ciutat Vella,el Raval,7,1019,382,1,59,2024
+1,4,Ciutat Vella,el Raval,7,1019,..,1,60,2024
+1,1,Ciutat Vella,el Raval,7,1020,52,1,61,2024
+1,2,Ciutat Vella,el Raval,7,1020,83,1,62,2024
+1,3,Ciutat Vella,el Raval,7,1020,180,1,63,2024
+1,1,Ciutat Vella,el Raval,8,1021,54,1,64,2024
+1,2,Ciutat Vella,el Raval,8,1021,80,1,65,2024
+1,3,Ciutat Vella,el Raval,8,1021,211,1,66,2024
+1,1,Ciutat Vella,el Barri Gòtic,9,1022,55,2,67,2024
+1,2,Ciutat Vella,el Barri Gòtic,9,1022,54,2,68,2024
+1,3,Ciutat Vella,el Barri Gòtic,9,1022,164,2,69,2024
+1,1,Ciutat Vella,el Barri Gòtic,9,1023,52,2,70,2024
+1,2,Ciutat Vella,el Barri Gòtic,9,1023,87,2,71,2024
+1,3,Ciutat Vella,el Barri Gòtic,9,1023,175,2,72,2024
+1,1,Ciutat Vella,el Barri Gòtic,10,1025,38,2,73,2024
+1,2,Ciutat Vella,el Barri Gòtic,10,1025,61,2,74,2024
+1,3,Ciutat Vella,el Barri Gòtic,10,1025,177,2,75,2024
+1,1,Ciutat Vella,el Barri Gòtic,10,1026,98,2,76,2024
+1,2,Ciutat Vella,el Barri Gòtic,10,1026,100,2,77,2024
+1,3,Ciutat Vella,el Barri Gòtic,10,1026,994,2,78,2024
+1,4,Ciutat Vella,el Barri Gòtic,10,1026,..,2,79,2024
+1,1,Ciutat Vella,el Barri Gòtic,10,1027,56,2,80,2024
+1,2,Ciutat Vella,el Barri Gòtic,10,1027,44,2,81,2024
+1,3,Ciutat Vella,el Barri Gòtic,10,1027,240,2,82,2024
+1,1,Ciutat Vella,el Barri Gòtic,11,1028,73,2,83,2024
+1,2,Ciutat Vella,el Barri Gòtic,11,1028,94,2,84,2024
+1,3,Ciutat Vella,el Barri Gòtic,11,1028,254,2,85,2024
+1,1,Ciutat Vella,el Barri Gòtic,11,1029,72,2,86,2024
+1,2,Ciutat Vella,el Barri Gòtic,11,1029,48,2,87,2024
+1,3,Ciutat Vella,el Barri Gòtic,11,1029,199,2,88,2024
+1,1,Ciutat Vella,el Barri Gòtic,12,1030,69,2,89,2024
+1,2,Ciutat Vella,el Barri Gòtic,12,1030,95,2,90,2024
+1,3,Ciutat Vella,el Barri Gòtic,12,1030,266,2,91,2024
+1,1,Ciutat Vella,el Barri Gòtic,12,1031,81,2,92,2024
+1,2,Ciutat Vella,el Barri Gòtic,12,1031,69,2,93,2024
+1,3,Ciutat Vella,el Barri Gòtic,12,1031,361,2,94,2024
+1,1,Ciutat Vella,la Barceloneta,13,1032,47,3,95,2024
+1,2,Ciutat Vella,la Barceloneta,13,1032,67,3,96,2024
+1,3,Ciutat Vella,la Barceloneta,13,1032,103,3,97,2024
+1,4,Ciutat Vella,la Barceloneta,13,1032,..,3,98,2024
+1,1,Ciutat Vella,la Barceloneta,13,1033,24,3,99,2024
+1,2,Ciutat Vella,la Barceloneta,13,1033,34,3,100,2024
